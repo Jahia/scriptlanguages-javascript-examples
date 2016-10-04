@@ -1,8 +1,11 @@
 # scriptlanguages-javascript-examples
 
-A simple example on how to use javascript as a scripting language for Jahia views.
-All standard Jahia variables are exposed as javascript variables, you can display node contents,
-etc.
+A Jahia Digital Experience Manager (DX) module that provides a simple example on using javascript a a scripting 
+language for Jahia DX views. All standard Jahia variables are exposed as javascript variables, you can display node 
+contents, etc. 
+
+This module should mostly be considered as a proof-of-concept. It is not recommended to use this code in a production
+ environment. For more information about Jahia DX, please go to: https://www.jahia.com/platform/digital-experience-manager
 
 ## Requirements
 - Jahia 7.2.0.0 or more recent
